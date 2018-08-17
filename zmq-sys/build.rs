@@ -1,5 +1,3 @@
-extern crate metadeps;
-
 use std::env;
 use std::path::Path;
 
