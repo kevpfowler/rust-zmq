@@ -15,8 +15,8 @@ links = "zmq"
 [dependencies]
 libc = "0.2.15"
 
-[build-dependencies]
-metadeps = "1"
+# [build-dependencies]
+# metadeps = "1"
 
-[package.metadata.pkg-config]
-libzmq = "3.2"
+# [package.metadata.pkg-config]
+# libzmq = "3.2"
